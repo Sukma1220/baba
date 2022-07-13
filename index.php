@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>remaqe CC Checker</title>
+	<title>CC Checker</title>
 	<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.11/css/mdb.min.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
@@ -12,9 +12,9 @@
 		<div class="row col-md-12">
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <div class="card col-sm-8">
-  <h5 class="card-body h6">CC Checker - remaqe</h5>
+  <h5 class="card-body h6">CC Checker</h5>
   <div class="card-body">
-    <center><span>[#REMAQE]</span></center>
+    <center><span>[#CHECKER]</span></center>
 <div class="md-form">
 	<div class="col-md-12">
   <textarea type="text" style="text-align: center;" id="lista" class="md-textarea form-control" rows="2"></textarea>
@@ -22,8 +22,8 @@
 </div>
 </div>
 <center>
- <button class="btn btn-primary" style="width: 200px; outline: none;" id="testar" onclick="enviar()" >Başlat</button>
-  <button class="btn btn-danger" style="width: 200px; outline: none;">Durdur</button>
+ <button class="btn btn-primary" style="width: 200px; outline: none;" id="testar" onclick="enviar()" >START</button>
+  <button class="btn btn-danger" style="width: 200px; outline: none;">STOP</button>
 </center>
   </div>
 </div>
